@@ -1,5 +1,5 @@
 {
-    "name": "twipi-group/googlecloud-pubsub-php-adapter",
+    "name": "tdonselaar/googlecloud-pubsub-php-adapter",
     "description": "PHP Adapter class for google-cloud-php-pubsub package.",
     "keywords": [
         "gcp",
@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "php": "~7.1",
+        "php": "~7.1|~8.0",
         "google/cloud-pubsub": "^1.21"
     },
     "require-dev": {
